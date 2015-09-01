@@ -15,6 +15,6 @@ public class Citizens {
     private String name;
     
     public Citizens(){
-        
+        level = 1;
     }
 }
